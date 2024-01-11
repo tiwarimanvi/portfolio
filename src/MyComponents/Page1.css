@@ -1,0 +1,27 @@
+.background-container {
+    height: 700px;
+    background-image: url('E:\my_react\portfolio\portfolio\public\img\img11.webp');
+    
+    background-size:cover;
+    background-position: center;
+  }
+  .social-container {
+  }
+  a.social {
+    transition: transform 250ms;
+    display: inline-block;
+  }
+  a.social:hover {
+    transform: translateY(-2px);
+  }
+  a.facebook {
+    color: #f97316;
+  }
+  
+  a.twitter {
+    color: #f97316;
+  }
+  
+  a.linkedin {
+    color: #f97316;
+  }
